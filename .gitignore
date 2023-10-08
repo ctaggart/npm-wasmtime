@@ -1,5 +1,5 @@
 wasmtime/
-windows/wasmtime*
-windows/LICENSE
-windows/README.md
+**/wasmtime*
+**/LICENSE
+**/README.md
 **/*.tgz

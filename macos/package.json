@@ -1,0 +1,22 @@
+{
+    "name": "@cataggar/wasmtime-cli-macos",
+    "version": "13.0.0",
+    "description": "Command-line interface for Wasmtime",
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "The Wasmtime Project Developers",
+    "license": "Apache-2.0 WITH LLVM-exception",
+    "homepage": "https://github.com/bytecodealliance/wasmtime",
+    "files": [
+      "wasmtime"
+    ],
+    "bin": {
+      "wasmtime": "wasmtime"
+    },
+    "publishConfig": {
+      "access": "public"
+    },
+    "os": [
+      "darwin"
+    ]
+  }
