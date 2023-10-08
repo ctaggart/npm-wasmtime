@@ -1,5 +1,5 @@
 {
-    "name": "@ctaggart/wasmtime-cli-windows",
+    "name": "@cataggar/wasmtime-cli-windows",
     "version": "13.0.0",
     "description": "Command-line interface for Wasmtime",
     "dependencies": {},
